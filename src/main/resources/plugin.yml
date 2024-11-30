@@ -1,0 +1,9 @@
+name: Prometheus
+version: 0.0.1
+main: me.domi.Main
+api-version: 1.13
+
+commands:
+  prometheus:
+    aliases: [ pmt ]
+    description: plugin command
